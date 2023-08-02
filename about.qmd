@@ -13,14 +13,6 @@ about:
       href: https://github.com/pollywestspring
 ---
 
-## Tasks for this page
-
-* Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
-* Update the legal information
-* Write a short introduction set of you
-* delete this section
-
-
 :::{#template-area}
 
 I am learning Python and how to use it for my research. 
